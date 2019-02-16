@@ -1,5 +1,7 @@
 
-![](ReadMeAssets/CSVAirdropSampleSmall.gif)
+<p align="center">
+  <img src="ReadMeAssets/CSVAirdropSampleSmall.gif">
+</p>
 
 # CSV Airdrop Sample
 
