@@ -1,5 +1,5 @@
 
-![](ReadMeAssets/CSVAirdropSample.gif)
+![](ReadMeAssets/CSVAirdropSampleSmall.gif)
 
 # CSV Airdrop Sample
 
